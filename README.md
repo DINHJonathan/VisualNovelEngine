@@ -1,3 +1,3 @@
 # VisualNovelEngine
 
-Interactive narrative game illustrated by artworks (CG) / characters sprites. Mix between novel and gaming, where choice are mainly the core gameplay of most Visual Novel.
+Interactive narrative game illustrated by artworks (CG) / characters sprites. Mix between novel and gaming, where choices are mainly the core gameplay of most Visual Novel.
